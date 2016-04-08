@@ -1,0 +1,8 @@
+div, img {
+    margin: 20px;
+    border: 1px dashed black;
+}
+
+.pic2 {
+    float: left;
+}
